@@ -43,4 +43,5 @@ age_program.age(dog) #displays age if you were a dog
 
 Name: Carlton Bates
 
+Choice of License and Code of Conduct: I went with these options because the nature of my program is very loose.  I opted for an option that would allow others to modify and do what they wish with the program themselves.
 
